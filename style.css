@@ -1,0 +1,51 @@
+
+#canvas{
+margin:auto;
+displat:block;
+}
+
+
+#title {
+    position: relative;
+    left: 50px;
+    top:40px;
+    width: 350px;
+    font-size: 24px;
+    font: 'Univers';
+}
+
+#para1 {
+    position: relative;
+    left: 50px;
+    top:50px;
+    width: 300px;
+    font: 'Univers';
+    font-size: 10px;
+    line-height: 150%;
+}
+
+
+#para2 {
+    position: relative;
+    left: 50px;
+    top:60px;
+    width: 300px;
+    font-size: 10px;
+    font: 'Univers';
+    line-height: 150%;
+}
+
+#para3 {
+    position: relative;
+    left: 50px;
+    top:70px;
+    width: 300px;
+    font-size: 10px;
+    font: 'Univers';
+    line-height: 150%;
+}
+
+#img {
+    position: relative;
+    left:820px;
+}
